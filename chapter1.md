@@ -61,7 +61,7 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 
 ---
 
-## Insert exercise title here
+## Forecasting Sales Using Trendline and Similar Techniques
 
 ```yaml
 type: VideoExercise
