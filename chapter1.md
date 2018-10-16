@@ -13,7 +13,7 @@ xp: 100
 skills: 1
 ```
 
-The purpose of this exercise is to illustrate the basic elements of forecasting. We will use google sheets INTERCEP, SLOPE and RSQ functions initially and then move on to using Trendlines
+The purpose of this exercise is to illustrate the basic elements of forecasting. We will use google sheets INTERCEPT, SLOPE and RSQ functions initially and then move on to using Trendlines
 
 `@instructions`
 - Watch the video with the demonstrations
