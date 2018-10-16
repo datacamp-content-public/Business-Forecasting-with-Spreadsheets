@@ -17,7 +17,7 @@ The purpose of this exercise is to illustrate the basic elements of forecasting.
 
 `@instructions`
 - Watch the video with the demonstrations
-- Complete the Trendline Exercise mentioned on slide
+- Complete the Trendline Exercise mentioned on the Line by Line Predictions/Forecasts slide
 - Practice with the amazon.com Sales, Total Assets and Net Income Data
 
 `@hint`
