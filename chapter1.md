@@ -13,13 +13,12 @@ xp: 100
 skills: 1
 ```
 
-This is the Context. It should help provide students with the background information needed.
-The Instructions that follow should be in bullet point form with clear guidance for what is expected.
+The purpose of this exercise is to illustrate the basic elements of forecasting. We will use google sheets INTERCEP, SLOPE and RSQ functions initially and then move on to using Trendlines
 
 `@instructions`
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- Watch the video with the demonstrations
+- Complete the Trendline Exercise mentioned on slide
+- Practice with the amazon.com Sales, Total Assets and Net Income Data
 
 `@hint`
 - Here is the hint for this setup problem. 
